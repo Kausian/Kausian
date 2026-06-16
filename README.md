@@ -4,16 +4,18 @@
 
 </div>
 
-#👋I'M S.KAUSIAN!
+<br/>
 
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=600&color=2EA043&center=true&vCenter=true&width=950&lines=I'm+S.Kausian;Computer+Science+Undergraduate+%40+IIT;Bridging+ideas+and+solutions+through+code" alt="Typing SVG" />
 
-### *Computer Science Undergraduate 🎓*
+</div>
 
+<br/>
+<br/>
 
-<table>
-<tr>
-<td width="58%">
+<img align="right" width="330" src="./assets/github-black.gif" alt="GitHub GIF" />
 
 I am a **Computer Science undergraduate at IIT** who is passionate about **DevOps, Cloud, Backend Development, and Full Stack Engineering**.
 
@@ -28,17 +30,11 @@ I enjoy building real-world projects, learning how applications are deployed, an
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=skausian&label=PROFILE%20VIEWS&color=8A008A&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Kausian&label=PROFILE%20VIEWS&color=8A008A&style=for-the-badge" alt="profile views" />
 
-</td>
+</div>
 
-<td width="42%" align="center">
-
-<img width="330" src="./assets/github-black.gif" alt="GitHub GIF" />
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
 

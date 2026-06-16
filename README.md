@@ -42,26 +42,16 @@ I enjoy building real-world projects, learning how applications are deployed, an
 
 ## 📬 Contact Me
 
-<div align="center">
-
-<a href="mailto:skausian@gmail.com">
-  <img src="https://img.shields.io/badge/Mail-skausian%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-S.Kausian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="YOUR_INSTAGRAM_URL">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
-  <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
 <a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:skausian@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kausian-senthan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>

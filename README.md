@@ -138,16 +138,13 @@ I enjoy building real-world projects, learning how applications are deployed, an
 
 </div>
 
-## 🕹️ Live Contribution Arena
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=skausian&theme=tokyo-night&hide_border=true&area=true&custom_title=Live%20Contribution%20Arena" />
-
-</div>
-
+### ⚡ Keep learning. Keep building. Keep improving.
 
 <div align="center">
 
-### ⚡ Keep learning. Keep building. Keep improving.
+<img src="https://raw.githubusercontent.com/skausian/skausian/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:C147E9,50:7A0BC0,100:270036&section=footer" />
 
